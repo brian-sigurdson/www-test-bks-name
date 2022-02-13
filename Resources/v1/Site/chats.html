@@ -32,22 +32,14 @@
     </div>
 </nav>
 
-<div class="container" id="chat">
-    &nbsp;
-</div>
+<div class="container">
+    <table class="table">
+        <tbody>
 
-<nav class="navbar navbar-default navbar-fixed-bottom">
-    <div class="container">
-        <div class="col-xs-12">
-            <div class="input-group">
-                <input type="text" class="form-control" id="message" placeholder="Start typing here..."/>
-                <span class="input-group-btn">
-                    <button type="button" class="btn btn-primary" id="send">Send</button>
-                </span>
-            </div>
-        </div>
-    </div>
-</nav>
+        </tbody>
+    </table>
+    <a href="people.html"><button type="button" class="btn btn-default">Start a new chat</button></a>
+</div>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -56,7 +48,6 @@
 <script src="js/site.js"></script>
 <script type="text/javascript">
     $(function () {
-        window.ChatApp.loadChat();
     });
 </script>
 </body>
