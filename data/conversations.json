@@ -8,7 +8,7 @@
     "id": "2"
   },
   {
-    "participants": ["Student", "Frank"],
-    "id": "3"
+    "participants": ["Student", "Alice"],
+    "id": "hello-world"
   }
 ]
