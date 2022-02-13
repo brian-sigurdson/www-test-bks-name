@@ -1,6 +1,6 @@
 {
   "id": "3",
-  "participants": ["Student", "Frank"],
+  "participants": ["Frank", "Student"],
   "messages": [
     {
       "sender": "Student",
