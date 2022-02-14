@@ -3,9 +3,9 @@
   "participants": ["Student", "Alice"],
   "messages": [
     {
-      "sender": "Student",
+      "sender": "Alice",
       "time": 1512246342159,
-      "message": "This is a message from Student to Alice."
+      "message": "This is Alice.  I usually talk to Bob."
     }
   ]
 }
